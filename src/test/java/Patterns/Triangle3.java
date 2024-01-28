@@ -2,6 +2,15 @@ package Patterns;
 
 import org.testng.annotations.Test;
 
+
+/*
+    * 
+   * * 
+  * * * 
+ * * * * 
+* * * * * 
+ 
+ */
 public class Triangle3 {
 	@Test
 	public void pattern() {

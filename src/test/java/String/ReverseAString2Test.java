@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class ReverseAString2Test {
 	@Test
 	public void reverse() {
-		String s="MALAYALAM";
+		String s="MALAYALAM ";
 		char[] ch = s.toCharArray();
 		for(int i=0;i<ch.length/2;i++) {
 			char temp=ch[i];

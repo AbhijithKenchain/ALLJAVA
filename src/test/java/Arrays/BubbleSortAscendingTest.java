@@ -1,7 +1,5 @@
 package Arrays;
 
-import java.util.Collections;
-
 import org.testng.annotations.Test;
 
 public class BubbleSortAscendingTest {
@@ -18,7 +16,7 @@ public class BubbleSortAscendingTest {
 			}
 		}
 		for(int i=0;i<a.length;i++) {
-			System.out.println(a[i]);
+			System.out.print(a[i]+" ");
 		}
 	}
 }
